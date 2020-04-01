@@ -1,5 +1,5 @@
 {
-    "name": "kra8/laravel-snowflake",
+    "name": "tianyong90/laravel-snowflake",
     "description": "Snowflake for Laravel and Lumen.",
     "keywords": ["snowflake", "Laravel", "Lumen"],
     "authors": [{
